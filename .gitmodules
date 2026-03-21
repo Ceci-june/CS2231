@@ -1,5 +1,5 @@
-[submodule "source_code"]
-	path = source_code
+[submodule "back_end"]
+	path = back_end
 	url = https://github.com/thainguyen20602/real-estate-recommendation-system.git
 [submodule "front_end/Real_Estate_Recommendation_System"]
 	path = front_end/Real_Estate_Recommendation_System
