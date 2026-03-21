@@ -6,6 +6,7 @@ __pycache__/
 *.pyc
 
 # Generated outputs
+Final_Data.json
 *.npy
 *.csv
 *_summary.json
