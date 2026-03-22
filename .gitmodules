@@ -1,6 +1,6 @@
 [submodule "back_end"]
 	path = back_end/real-estate-recommendation-system
-	url = https://github.com/thainguyen20602/real-estate-recommendation-system.git
+	url = https://github.com/thainguyen20602/recommendation-system.git
 	branch = main
 [submodule "front_end/Real_Estate_Recommendation_System"]
 	path = front_end/Real_Estate_Recommendation_System
